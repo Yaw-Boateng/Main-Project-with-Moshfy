@@ -734,7 +734,12 @@ color: #fff;
     .hero__content{
         text-align: left;
         align-self: center;
+justify-content: space-between;
     }
+
+.hero  .grid--1x2 {
+     grid-template-columns: 1fr 1fr;
+ }
     
   }
 
