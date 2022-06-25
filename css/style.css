@@ -5,8 +5,8 @@
     --color-secondary:#00d9ff;
     --color-accent:#ff3400;
     --color-headings:#1b0760;
-    --color-body:#918ca4
-    --color-body-darker: #5c5577
+    --color-body:#918ca4;
+    --color-body-darker: #5c5577;
     --color-border:#ccc;
     --border-radius:30px;
 }
@@ -346,10 +346,6 @@ color: #fff;
 
 /* plans */
 
-.plan {
-  /* padding: 10px; */
-   
-}
 
 .plan__name{
     margin: 0;
@@ -729,11 +725,7 @@ color: #fff;
 
 
 
-        @media screen and (max-width:200px) {
-.hero_{
-    
-}
-        }
+
 
   @media screen and (min-width:768px) {
     .hero{

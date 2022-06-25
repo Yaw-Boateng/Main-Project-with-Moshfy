@@ -1,0 +1,6 @@
+module.exports = {
+    "minifySvg": false
+  }
+
+you should do this to ignore svg files when building for production
+  parcel build --no-minify index.html 
